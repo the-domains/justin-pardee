@@ -1,0 +1,28 @@
+name: Justin Pardee
+favicon: null
+layout_spectrum: 0.14964279532432556
+typography_spectrum: 0.3619267628528178
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4646847271360457
+  lightness: 0.12369499518536031
+  saturation: 0.27571350359357893
+  rhythmicContrast: 0.10268628806807101
+purpose: []
